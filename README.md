@@ -6,6 +6,6 @@ Nếu các bạn đang là sinh viên của UTT thì đây sẽ là tài liệu 
 hoặc nếu bạn không phải là sinh viên của UTT thì tài liệu này cũng sẽ giúp cho các bạn một phần nào đó về một số môn mà ngành và trường mà các bạn 
 đang theo học.
 
-Sẽ có một số lỗi nên nếu các bạn đọc và tham khảo có thắc mắc gì thì có thể liên hệ với mình qua đường link này : https://linktr.ee/duonggbach003
+Sẽ có một số lỗi nên nếu các bạn đọc và tham khảo có thắc mắc gì thì có thể liên hệ với mình qua đường link này : https://duogbachdev.ga
 
 Cuối cùng là cám ơn các bạn đã đọc và tham khảo tài liệu của mình. Chúc các bạn học tập thật tốt !!!
